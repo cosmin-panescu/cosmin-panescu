@@ -2,10 +2,10 @@
 
 ###
 
-<p>
+<h5>
   » ✨ I am a student and a self-taught person, building web experiences (sites & apps), with a taste for AI, UI, UX, entrepreneurship, self-development, management and a few other things. 👩🏻‍💻
 
-</p>
+</h5>
 
 ###
 
