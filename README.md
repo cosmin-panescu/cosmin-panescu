@@ -1,5 +1,6 @@
 ## 💫 About Me:
-I am a student and a self-taught person, building web experiences (sites & apps), with a taste for AI, UI, UX, entrepreneurship, self-development, management and a few other things
+Hey! My name is Cosmin Pănescu and I like to build projects to learn how code works. To be more explicit, I'm a student and self-taught individual with a passion for Data Science and Frontend Development.
+
 
 
 ## 💻 Tech Skills:
